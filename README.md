@@ -10,3 +10,6 @@ The first assignment in the class. Simple code that iterates through an array to
 
 ## Structs
 Code introducing structs and also writing functions with pointers. Includes embedded structs and a function to update a struct.
+
+## Map
+Code introducing maps and how to use them. Also showing how they differ from structs based on strict typing and being pass by reference.
