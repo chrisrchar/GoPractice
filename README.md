@@ -13,3 +13,11 @@ Code introducing structs and also writing functions with pointers. Includes embe
 
 ## Map
 Code introducing maps and how to use them. Also showing how they differ from structs based on strict typing and being pass by reference.
+
+## Interface & http
+Introduction to interfaces in Go. Used as a simple form of abstraction to make sure specific types implement specific functions. Interfaces was a simple example of two chat bot types that are both a bot type. The http file utilized the http package with more depth into the Reader and Writer interfaces.
+
+## Assignment 2 & 3
+Assignments 2 and 3 were more practice with interfaces. Assignment 2 was practice in writing an interface with shapes that implement a `getArea()` function and then the `printArea()` function takes the more generic `shape` type interface as an argument.
+
+Assignment 3 was more so practice with the Go documentation and using packages to read in an external file, then print it out to the terminal.
