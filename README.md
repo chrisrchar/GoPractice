@@ -21,3 +21,6 @@ Introduction to interfaces in Go. Used as a simple form of abstraction to make s
 Assignments 2 and 3 were more practice with interfaces. Assignment 2 was practice in writing an interface with shapes that implement a `getArea()` function and then the `printArea()` function takes the more generic `shape` type interface as an argument.
 
 Assignment 3 was more so practice with the Go documentation and using packages to read in an external file, then print it out to the terminal.
+
+## Channels
+Coded a website status checker to introduce go routines/asynchronous functions in Go. Also used a function literal to delay routines. 
